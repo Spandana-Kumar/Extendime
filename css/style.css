@@ -1,0 +1,240 @@
+
+body{
+    background-color: #0B0A08;
+    font-family: 'Squada One', cursive;
+    
+}
+.logo_first{
+    width: 100%;
+    height: 70px;
+}
+.menu-label li{
+    padding:0 15px 0 10px;
+}
+.menu-label li .nav-link{
+    color: #FFB533;
+}
+.navbar-toggler{
+    background-image: url("../images/menu.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.card-bg{
+    color: #EAEAEA;
+    font-size: 30px;
+    font-weight: 400;
+    background-color:transparent;
+    
+    
+}
+.heading{
+    color: #212121;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.188%; /* 145.406px */
+    padding-left: 0;
+    padding-right: 0;
+}
+.box{
+    height: 15px;
+    border-left: 1px solid #212121;;
+    border-top: 1px solid #212121;
+    margin-top: 3.5rem; 
+   
+}
+.card-img-top {
+    width: 100%;
+    height: 300px;
+}
+ .card-background{
+   
+   padding: 5rem 1rem 0 1rem;
+   background-color: transparent;
+   color:#EAEAEA;
+   
+}
+.line{
+    color: #FFB533;
+    text-decoration: underline;
+    
+    
+}
+.box-first{
+    height: 15px;
+    border-right: 1px solid #212121;;
+    border-bottom: 1px solid #212121;
+    margin-top: 3.5rem; 
+   
+}
+.card-image{
+    width: 50px;
+    height: 40px;
+}
+
+.space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.head{
+    color: #FFB533;
+    font-size: 20px;
+}
+
+.text-size{
+    font-size: 15px;
+    color: #EAEAEA;;
+}
+
+.card-color{
+    background: rgba(63, 61, 61, 0.9);
+    height: 100%;
+}
+.box-second{
+    height: 15px;
+    border-right: 1px solid #212121;;
+    border-top: 1px solid #212121;
+    margin-top: 3.5rem; 
+   
+}
+.card-length{
+    height: 100%;
+    border: none;
+    background-color: transparent;
+}
+
+.icon{
+    width: 45px;
+    height: 55px;
+    margin-left: auto;
+    margin-top: 1rem;
+    margin-right: 1rem;
+
+}
+
+.title-size{
+    color: #FFB533;
+    font-size: 100px;
+}
+
+.counter{
+    height: 100%;
+    border: none;
+    background-color: #131210;
+    box-shadow: 4px 4px 14px 0px rgba(0, 0, 0, 0.18);
+}
+
+.box-third{
+    height: 15px;
+    border-left: 1px solid #212121;;
+    border-bottom: 1px solid #212121;
+    margin-top: 3.5rem; 
+   
+}
+
+.heading1{
+    color: #212121;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.188%; /* 145.406px */
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.swiper{
+    background: #131210;
+}
+
+.testimonials .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after{
+    content:''
+}
+.testimonials .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+    content:''
+}
+
+.prev-slick {
+    width: 40px;
+    height: 40px;
+    transform: rotate(180deg);
+    border: 1px solid #ffb533;
+    padding: 10px;
+   
+      
+}
+ .next-slick{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ffb533;
+    padding: 10px;
+    /* transform: rotate(0deg); */
+   
+}
+
+ .swiper-button-prev{
+    top: 90% !important;
+    left: 90% !important;
+    bottom: 0;
+   
+}
+
+.swiper-button-next{
+    top: 90% !important;
+    bottom: 0;
+    right: 40px !important;
+
+}
+.name_style{
+    transform: rotate(90deg);
+}
+
+.Our_Crew .mySwiper{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.Our_Crew .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after{
+    content:''
+}
+.Our_Crew .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+    content:''
+}
+
+.company_logo{
+    width: 100%;
+    height: 45px;
+}
+
+.text{
+    color: #EAEAEA;
+    font-size: 20px;
+}
+
+.imagess{
+    width: 100%;
+    height: 300px;;
+}
+
+.dot{
+    list-style-type:none;
+}
+
+.card-top{
+    width: 100px;
+    height: 40px;
+}
+
+.card_swiper{
+    width: 100%;
+    height: 310px;
+}
+.img_icon{
+    width: 10px;
+    height: 15px;
+}
+
+.content{
+    justify-content: center;
+}
